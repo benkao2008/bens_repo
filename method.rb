@@ -135,3 +135,5 @@ end
 
 puts "Total score: #{user_point} out of #{actual_amount}!"
 	
+
+# test comment to repo github
